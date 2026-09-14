@@ -1,15 +1,22 @@
-# ASENA
+# KYRIN
 
-Open-source AI Desktop Agent
+Next-Generation Open-Source AI Desktop Agent
 
 ## Vision
 
-Asena is an intelligent desktop agent that can understand voice, vision, text, and interact with the operating system like a human.
+KYRIN is an intelligent AI agent designed to understand voice, vision, and text, and interact with the operating system naturally like a human.
+
+## Roadmap
+
+- Voice Interaction
+- Vision Understanding
+- Desktop Automation
+- Cross-Platform Support
 
 ## Status
 
-Current Version: V1 (Development)
+Version: KYRIN B1 (Early Development)
 
 ## License
 
-MIT
+MIT License
